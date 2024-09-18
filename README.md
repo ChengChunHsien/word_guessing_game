@@ -2,4 +2,4 @@
 game about guessing words.
 
 
-![Flowchart](word_guessing_game.drawio.png)
+![Flowchart](Drawio/word_guessing_game.drawio.png)
